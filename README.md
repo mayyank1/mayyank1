@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Mayank Gaur, I am an M.Tech Scholar at GBPIET, Open Source Enthusiast, and DSA Practitioner.<br><br>Current Project: Building "Raaibar" (a end-to-end  encrypted mssaging app). <br>Studying: Advanced DSA, System Design, and Blockchain protocols. <br> Goals: Targeting SDE Internships for Summer 2026. <br>Fun Fact: I balance my coding marathons with heavy lifting at the gym .
+Hello! I am an M.Tech Scholar at GBPIET, Open Source Enthusiast, and DSA Practitioner.<br><br>Current Project: Building "Raaibar" (a end-to-end  encrypted mssaging app). <br>Studying: Advanced DSA, System Design, and Blockchain protocols. <br> Goals: Targeting SDE Internships for Summer 2026. <br>Fun Fact: I balance my coding marathons with heavy lifting at the gym .
 
 
 ## 🌐 Socials:
